@@ -1,0 +1,24 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "The Odin Project, Full Stack JavaScript Path, JavaScript, Testing JavaScript, Project: Testing Practice",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scGetStuff/top-js-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scGetStuff/top-js-testing/issues"
+  },
+  "homepage": "https://github.com/scGetStuff/top-js-testing#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
