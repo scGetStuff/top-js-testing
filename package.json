@@ -4,6 +4,7 @@
     "description": "The Odin Project, Full Stack JavaScript Path, JavaScript, Testing JavaScript, Project: Testing Practice",
     "main": "index.js",
     "private": true,
+    "type": "module",
     "scripts": {
         "test": "jest",
         "watch": "jest --watch *.js"
@@ -20,6 +21,7 @@
     },
     "homepage": "https://github.com/scGetStuff/top-js-testing#readme",
     "devDependencies": {
+        "@babel/preset-env": "^7.19.3",
         "jest": "^29.1.2"
     }
 }
