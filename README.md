@@ -1,5 +1,4 @@
 # top-js-testing
-
 The Odin Project, Full Stack JavaScript Path, JavaScript, Testing JavaScript, Project: Testing Practice
 
 ---
